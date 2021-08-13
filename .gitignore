@@ -1,4 +1,5 @@
 node_modules
 
-//Exclude environment files
+# Exclude local environment files
+/.env
 .env
